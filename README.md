@@ -7,7 +7,9 @@ Scans all posts from all known potential marking users for marks.
 # Dependencies
 
 1.) Perl, this should already be installed on your system.
+
 2.) UserAgent `cpan install LWP::UserAgent` our crawler.
+
 3.) SQLite `cpan install DBD::SQLite` our database.
 
 
