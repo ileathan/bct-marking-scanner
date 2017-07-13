@@ -1,5 +1,5 @@
 
-# UNDER MAINTANENCE - currently the only way to get this working is to examine the code for the database structure and then populate your database users and marking balances. I will revisit this code and make it self populateing soon.
+# UNDER MAINTANENCE - currently the only way to get this working is to examine the code for the database structure and then populate your database users and marking balances. I will revisit this code and make it self populating soon.
 
 # bct-marking-scanner
 Scans all posts from all known potential marking users for marks.
